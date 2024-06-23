@@ -1,7 +1,7 @@
 # Machine Learning
 
 
-![](/resources/Machine Learning Title Image.png)
+![](/resources/title-head.png)
 
 Contains Solutions and Notes for the [Machine Learning] by Andrew NG on Coursera 
 
